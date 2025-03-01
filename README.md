@@ -48,7 +48,6 @@ The cost breakdown for WellNest is detailed in the **PDF document** provided in 
 
 ## Repository Structure
 - `README.md` – This document
-- `WellNest_Proposal.pdf` – Detailed project proposal and cost estimation
 - `WellNest_Round1.pdf` – Initial round submission
 - `WellNest_Round2.pdf` – Extended project details
 
